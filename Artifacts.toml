@@ -1,0 +1,288 @@
+[[Flowstar]]
+arch = "aarch64"
+git-tree-sha1 = "9cb6d1ac6008c127a7648d4f6ab3208ffcda1230"
+os = "macos"
+
+    [[Flowstar.download]]
+    sha256 = "6390b4cfc419f1c25aa974cdf958a4b3949d1918e587079326ced70492434e8a"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.aarch64-apple-darwin.tar.gz"
+[[Flowstar]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "222c1a8d7af4f6d80010fbeb266d95287d306bd2"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "66b5bd3ab27184250051a1d904d196aab4d82ce1439792e1c089682e422c92b5"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Flowstar]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b869abb6ec42256141e62cf6ee21f595abb4b0d0"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "69fb37231ec4ccd7f970b93aa934135b0b4a55b07083ce61ef971d73b51b4bc7"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Flowstar]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "352e451e7734cf69b40fe7c8e7573f46d8032806"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "51416c8f0ad56a0434354f87e34216e6590b8dde515ea6205b2edfca08fee908"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Flowstar]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7697b58bd80f37eff2d8ba73152b80808f96993b"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "a08c1647e3277dcdfb65d9623e43f8546a4ddd44c20e78c095ada7080f9d5e5b"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Flowstar]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b33860093a1646d03b0ddf6cdc9f418eed2645d0"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "a2f94c204371607e69c5c68c11a661f6c98427e6e641445e525ee0f874db630b"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Flowstar]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45b7a549d199b685f3d3271afaefd3319a7bfb1c"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "c9dc6e823b684c8e05a56b7756d3b993162c9e08a39f95b5094ffcc2da78ac3f"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Flowstar]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "63cebab95d10ca4c435903fe2aed518348369e82"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "8a749602f76a72107bda145520f929e657b2b79d8a6bd867b7c15756650c0758"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Flowstar]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "745f22041b8e291fbc9f4aa1c379fe597a83877d"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "b5eafe1066893be06f1aaa4001dbe59974bb2f62bb56ac1a4b7466cbb7c7c980"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Flowstar]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1848f6f70a5222874d9b5f764feefed75cb78303"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "acf9703e6f35b86d7a48883d2e8c317367eaab52ad680e1d5c4e7c99a7681fb2"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Flowstar]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31c90290f3bcd43903131e7c2abda9fccb958ab3"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "172db3b696f171fd75831cfc7c7d204a8c71a0d839afb2c43f951b5497b090cc"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Flowstar]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9380a77e186e0eeec6f87af58b0e3d71aebcb431"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "ce6ed671f999a3015a17c427ca635418b603bf0d9826ad36429c5931c7335d02"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Flowstar]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f6e4506a5849414ac54369335066943107c76343"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "3df08769ec0628eb4cf03997a160004aedf345b9ea3a92182352826200b65950"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Flowstar]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7fc28e0468097372a69d8c9973434f8f6f47a936"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "96de6350754c747d4aca32704b5b5e26ce1765811f3f20495dfe7f555c7d5278"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[Flowstar]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e45d1cb5a4a157a90124f8f3fe6b9ae0d98a6b72"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "4b6767f94c418d7dd7ecb8a86c008466f125279d593d76639fbe25372a7b9555"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[Flowstar]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "025e3d0e334e265434825a6efde3783fed137e37"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "a3109e8474072f667ae2a7a98f0f8a888f8b7a40cf4512f351ecb7f964fc76dd"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.i686-linux-musl-cxx03.tar.gz"
+[[Flowstar]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f85123a58da87a7292fe73e8f58c9f05c0f1d62"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "30ee9621a7975da062df538939cddcf55ebf65afdb54d1becc899e73322f4184"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.i686-linux-musl-cxx11.tar.gz"
+[[Flowstar]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5ff976faa3cba51e621ac0bb4a3d7f8595b4d7b7"
+os = "windows"
+
+    [[Flowstar.download]]
+    sha256 = "1b5d07fa13a86790ac2026432b58cecced32b39deab379e077d6b7d91a2fcc9e"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Flowstar]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5eb4a5e16e1187331666ea39b3a3d39c1f8e677"
+os = "windows"
+
+    [[Flowstar.download]]
+    sha256 = "39d831953643fdf5cf709c98ccf85db0db92aaace0babcf231b0058f43a99d83"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Flowstar]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b90edee92b3c0cad8923ea687767c7d60b8a2291"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "601207892221c56cf0186bfa414564fef5d672400705478449c6190420a5304d"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Flowstar]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b9da301e75678d6c0a73950e90717a778404c56"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "ca3642afe24716f6566d46d802b1051cafe550a76aac501070cf66aa2f0c1223"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Flowstar]]
+arch = "x86_64"
+git-tree-sha1 = "b63450956a6d8fece687b99bbb55629bbbbc6e18"
+os = "macos"
+
+    [[Flowstar.download]]
+    sha256 = "99d35c7e5851feef05b11142ab7b84067ae4b38d51245cc67dc928de2185c29c"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.x86_64-apple-darwin.tar.gz"
+[[Flowstar]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e833574f78ae396d6d3ce43389102266d82e5b6d"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "257e07561639142eaacbdaacba0291202023d25105c5df1b8afa680f366a8981"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Flowstar]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b59e8645c20eb825a975c8ec8a4df83ae24a77e3"
+libc = "glibc"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "765df5bf198659e69030445bd4dbcd752e48941fa7c005cbe05c957cf94ec67d"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Flowstar]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd4454d943caf0d57deb7ba4583e694c8c9ec49d"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "8e482960d76d8ec3f763d7f2bf80b846ec30e8f9d675c4a4cf4b620d2058a097"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Flowstar]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8aaf87b2e302f4b9e979d70341241e0630489ab4"
+libc = "musl"
+os = "linux"
+
+    [[Flowstar.download]]
+    sha256 = "263c82a0f37af5007bd6fdc2c8b0918d915cc6634c8a6c1960b026e3dc148338"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Flowstar]]
+arch = "x86_64"
+git-tree-sha1 = "d1246826e8da69a7d4a5f8036da499a974e6b855"
+os = "freebsd"
+
+    [[Flowstar.download]]
+    sha256 = "c33f213873cf9f810e366f107a353adf99d909dc3296473527fd5e83af8c0ab0"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.x86_64-unknown-freebsd.tar.gz"
+[[Flowstar]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c4f579cb056da1ad67236e304f3a46478486edca"
+os = "windows"
+
+    [[Flowstar.download]]
+    sha256 = "574214a50cd9efeb4548211701b3f7cdf0d95f983eb36436d8e624eb9f5a4a06"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Flowstar]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38d8317c9d87f9d18a76d731ce2107110e93d89e"
+os = "windows"
+
+    [[Flowstar.download]]
+    sha256 = "e5d9c202eb4934e2b0e86656c32b98d24d92398a25ad56c3fa46e9c6cf17991a"
+    url = "https://github.com/JuliaBinaryWrappers/Flowstar_jll.jl/releases/download/Flowstar-v2.1.0+0/Flowstar.v2.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
